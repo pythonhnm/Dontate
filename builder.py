@@ -122,7 +122,7 @@ def main():
 | |_| | (_) | | | | || (_| | ||  __/
 |____/ \___/|_| |_|\__\__,_|\__\___|
 ===rAnSoMwArE as an Open Source Software===
-V1.2 Beta
+V1.3 Beta
 by - SnakeH
 donate(monero):497Qg6nGRAHLFxLLwpiMpoEE6QKRZWQHPSEN9DUttcLn5zdW3xn8PKUQDqS7Ui3qUpZ5YTm6QtMBKjfMXjk6BhL9GquRXnX
 '''+bcolors.ENDC
