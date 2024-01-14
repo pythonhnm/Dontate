@@ -384,7 +384,7 @@ if __name__ == '__main__':
     drives = GetAllDrives()
     threads = []
     for drive in drives:
-        threads.append(threading.Thread(target=endir,args=(drive)))
+        threads.append(threading.Thread(target=endir,args=(drive,ID)))
     for thread in threads:
         thread.start()
     for thread in threads:
